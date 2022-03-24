@@ -158,7 +158,7 @@ The Uses of History
 {{< tdopen >}}
 
 
-*   Hargittai, Eszter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Radio's Lessons for Internet. (PDF)](http://www.eszter.com/research/pubs/hargittai-radio.pdf)" _Communications of the Association for Computing Machinery_ 43, no. 1 (2000): 50–57.
+*   Hargittai, Eszter. ["Radio's Lessons for Internet. (PDF)](http://www.eszter.com/research/pubs/hargittai-radio.pdf)" _Communications of the Association for Computing Machinery_ 43, no. 1 (2000): 50–57.
 *   Light, Jennifer. "Youth, Old Media, and Political Participation, 1800–1971" In _From Voice to Influence: Understanding Citizenship in a Digital Age_. University Of Chicago Press, 2015. ISBN: 9780226262260. \[Preview with [Google Books](http://books.google.com/books?id=ljitCQAAQBAJ&pg=PA19#v=onepage)\]
 *   Wu, Timothy. _The Master Switch: The Rise and Fall of Information Empires_. Vintage, 2011. ISBN: 9780307390998. \[Preview with [Google Books](http://books.google.com/books?id=gD2AYh4IWXEC&printsec=frontcover)\] (and response by Decherney, Ensmenger, et al. "[Are Those Who Ignore History Doomed to Repeat It?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2009492)" 2012.)
 *   Cuban, Larry. _Teachers and Machines: The Classroom Use of Technology Since 1920_. Teachers College Press, 1986. ISBN: 9780807727928. \[Preview with [Google Books](http://books.google.com/books?id=uQeEn1vEUSQC&printsec=frontcover)\]
